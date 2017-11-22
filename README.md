@@ -7,6 +7,8 @@ See it [here](https://evatd.github.io/react-video/).
 
 ### To start
 
+Run
+
 ```
 npm start
 ```
