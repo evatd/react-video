@@ -6,7 +6,7 @@ import logo from "./logo.svg";
 import styled from "styled-components";
 
 import SearchBar from "./components/search_bar";
-import VideoList from "./components/video_list";
+import VideoList from "./components/video-list";
 import VideoDetail from "./components/video_detail";
 
 const API_KEY = "AIzaSyCe-j1Bmf1d6sm9LZ790MnqUJsAtpohiGg";
